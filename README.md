@@ -1,3 +1,3 @@
 # SourceTree
 
-This is SourceTree test.
+This is SourceTree.
